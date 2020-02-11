@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JobPortal.Web", "JobPortal.Web.csproj", "{058ED06B-5DBA-4253-846C-E0EE662FA326}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{058ED06B-5DBA-4253-846C-E0EE662FA326}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{058ED06B-5DBA-4253-846C-E0EE662FA326}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{058ED06B-5DBA-4253-846C-E0EE662FA326}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{058ED06B-5DBA-4253-846C-E0EE662FA326}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5D7CA2E4-E7C6-4A70-ACA4-901EACD05D5E}
+	EndGlobalSection
+EndGlobal
